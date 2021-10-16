@@ -1,6 +1,6 @@
 ### Hi there, I'm Tiago Santos - aka [quixote][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/tiago-conceicao/)
+[![Website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)](https://www.linkedin.com/in/tiago-conceicao/)
 
 
 ## I'm a Biker, Developer, and Entrepreneur!!
