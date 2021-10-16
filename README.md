@@ -1,7 +1,7 @@
 ### Hi there, I'm Tiago Santos - aka [quixote][website] 👋
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />][website]
-
+[<img align="left" alt="codeSTACKr.com" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />][website]
+<br />
 ## I'm a Biker, Developer, and Entrepreneur!!
 
 - 🔭 I'm CTO and co-founder at Ayo: [A Brasilizan mobility startup!][ayo]!
