@@ -71,7 +71,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![Quixote15 GitHub stats](https://github-readme-stats.vercel.app/api?username=quixote15&show_icons=true&theme=radical)
+![Quixote15 GitHub stats](https://github-readme-stats.vercel.app/api?username=quixote15&show_icons=true&theme=radical&count_private=true)
 
 </details>
 
