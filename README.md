@@ -62,14 +62,14 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Debugando aplicações NodeJS no VSCODE](https://medium.com/@santos2tiago/debugando-aplica%C3%A7%C3%B5es-nodejs-no-vscode-ced8d6ef8e1)
+- [React-Native: Como colocar Icone de inicialização](https://medium.com/@santos2tiago/react-native-como-colocar-icone-de-inicializa%C3%A7%C3%A3o-681e05a471e5)
+- [React Native Performance Roadmap](https://blog.back4app.com/react-native-performance-roadmap/)
+- [React-Native: Aprenda Flexbox com Satanás](https://medium.com/@santos2tiago/react-native-aprenda-flexbox-com-satan%C3%A1s-9313a3a8d6a8)
+- [Criando uma aplicação EmberJS do zero](https://medium.com/@santos2tiago/criando-uma-aplica%C3%A7%C3%A3o-emberjs-do-zero-d109d204992f)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://medium.com/@santos2tiago)
 
 ---
 
