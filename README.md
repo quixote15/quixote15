@@ -1,6 +1,5 @@
 ### Hi there, I'm Tiago Santos - aka [quixote][website] 👋
 
-[<img align="left" alt="codeSTACKr.com" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />][website]
 <br />
 <br />
 
