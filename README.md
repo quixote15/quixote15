@@ -8,7 +8,7 @@
 - 🔭 I'm CTO and co-founder at Ayo: [A Brasilizan mobility startup!][ayo]!
 - 🌱 I’m currently learning lots of javascript 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Get a certification & Become a NodeJS Specialist
+- 🥅 2022 Goals: Get a certification & Become a NodeJS Specialist
 - ⚡ Fun fact: I love to travel on my motorcycle and play guitar / bass
 
 ### Connect with me:
